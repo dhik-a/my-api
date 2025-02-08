@@ -1,11 +1,19 @@
 {
-  "posts": [
+  "items": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Bakso",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "title": "Mie",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "title": "Kwetiaw",
+      "price": 5000
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
