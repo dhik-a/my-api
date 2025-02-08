@@ -1,0 +1,14 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "title": "Bakso",
+      "price": 25000
+    },
+    {
+      "id": 1,
+      "title": "Mie Ayam",
+      "price": 20000
+    }
+  ],
+}
